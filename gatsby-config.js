@@ -3,7 +3,7 @@ module.exports = {
     title: `Theoatrix.Net`,
     siteUrl: `https://theoatrix.net`,
     description: `OldSchool RuneScape Guides`,
-    topics: [],
+    topics: ["theo"],
     menu: [
       {
         name: 'Home',
@@ -27,13 +27,13 @@ module.exports = {
         <a href="https://nehalist.io" rel="noopener" target="_blank">nehalist.io</a>. If you like what you see feel free to give a 
         <a href="https://github.com/nehalist/gatsby-theme-nehalem" rel="noopener" target="_blank">star on GitHub!</a>`,
       social: {
-        facebook: ``,
-        twitter: `https://twitter.com/nehalist`,
-        linkedin: `https://www.linkedin.com/in/kevin-hirczy-7a9377106/`,
-        instagram: ``,
-        youtube: ``,
-        github: `https://github.com/nehalist`,
-        twitch: ``
+        youtube: `https://youtube.com/theoatrix`,
+        twitter: `https://twitter.com/theoatrix`,
+        linkedin: ``,
+        instagram: `instagram.com/theoatrix.osrs`,
+        facebook: `facebook.com/theoatrix`,
+        github: ``,
+        twitch: `twitch.tv/theoatrix_osrs`
       }
     }
   },
