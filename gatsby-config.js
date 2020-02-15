@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Theoatrix.Net | OldSchool RuneScape Guides`,
+    title: `Theoatrix.Net`,
     siteUrl: `https://theoatrix.net`,
-    description: `descriopion`,
+    description: `OldSchool RuneScape Guides`,
     topics: [],
     menu: [
       {
