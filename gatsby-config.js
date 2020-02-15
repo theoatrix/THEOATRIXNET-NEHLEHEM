@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `nehalem-starter`,
-    siteUrl: `https://nehalem.netlify.com`,
-    description: `A Gatsby starter for nehalem`,
+    title: `Theoatrix.Net | OldSchool RuneScape Guides`,
+    siteUrl: `https://theoatrix.net`,
+    description: `descriopion`,
     topics: [],
     menu: [
       {
@@ -22,7 +22,7 @@ module.exports = {
     ],
     search: true,
     author: {
-      name: `nehalem`,
+      name: `Theoatrix`,
       description: `I'm <strong>nehalem</strong>, a Gatsby theme by 
         <a href="https://nehalist.io" rel="noopener" target="_blank">nehalist.io</a>. If you like what you see feel free to give a 
         <a href="https://github.com/nehalist/gatsby-theme-nehalem" rel="noopener" target="_blank">star on GitHub!</a>`,
