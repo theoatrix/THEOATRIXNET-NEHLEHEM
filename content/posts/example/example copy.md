@@ -8,7 +8,7 @@ created: 2019-07-22
 updated: 2019-07-22
 ---
 
-## Cruciabere instruit
+## Cruciabere instruit 
 
 Lorem markdownum et altis custodia, si castaque culpavit *stipite*. Dat ad stat,
 his, comites fuit subito [fer](http://geminis.com/) dabat videri et cernis
